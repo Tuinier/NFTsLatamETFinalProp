@@ -1,0 +1,176 @@
+
+body {
+    background-color: #E5F3FF
+}
+
+h1 {
+    font-family: 'Inconsolata', monospace;
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    font-size: 'Inconsolata', monospace; ;
+    color: darkblue; 
+    text-align: center;
+    font-size:medium;
+}
+
+h3 {
+    font-size: 'Inconsolata', monospace; ;
+    color: darkblue; 
+    text-align: left;
+    font-size:medium;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.heading {
+    width: 50%;
+    height: auto;
+    background-color:white ;
+    margin: auto;
+    margin-top: 50px;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.v2 {
+    width: 70%;
+    margin: auto;
+    text-align: justify;
+}
+.invite {
+    width: 70%;
+    margin: auto;
+}
+
+.main-p {
+    text-align: justify;
+}
+
+.p-2 {
+    text-align: justify;
+}
+
+.image {
+    display: block;
+    width: 350px;
+    margin: auto;
+}
+
+.p-footer {
+    margin-left: auto;
+    text-align: justify;
+    display: block;
+}
+
+.tulip30 {
+    width: 100px;
+    position: absolute;
+    margin-left: 5%px;
+    padding-top: 3%;
+    display: none;
+}
+
+
+.tuinier {
+    width: 100px;
+    position: relative;
+    display: inline;
+}
+
+.image>p {
+    text-align: center;
+    width: 130px;
+    margin: auto;
+    font-size: large;
+    font-style: bolder;
+}
+.tuinen {
+    width: 100px;
+    position: relative;
+    margin-left: auto;
+    display: inline;
+}
+
+.footer {
+    font-size: xx-small;
+    text-align: left;
+    font-weight: bolder;
+    margin-left: 15%;
+}
+
+
+/* PROARTE COLLAB */
+
+.tulip {
+    float: left;
+    width: 100px;
+    height: auto;
+    border: 30px;
+    position: static;
+    z-index:0;
+    float: right;
+}
+
+.heading>p {
+    text-align: center;
+}
+
+tr {
+    width: 100%;
+}
+
+td {
+    text-align: justify;
+    margin-top: 0;
+    margin-left: auto;
+}
+
+.proarte {
+    width: 70%;
+    margin: auto;
+}
+
+.proarte>.imgproarte {
+    width: 200px;
+    float: left;
+    margin-right: 5px;
+
+}
+
+a>.imgproarte {
+    width: 55px;
+}
+
+.proposal {
+    width: 70%;
+    margin: auto;
+}
+
+ul {
+    margin-left: 0;
+    padding:0;
+}
+
+li{
+    margin-left:0;
+    text-align: justify;
+}
+
+.footer>span {
+    margin-left: 30px;
+}
+
+span {
+    margin-bottom: 100px;
+    position: relative;
+    bottom: 20px;
+    left: 10px;
+    font-size: medium;
+}
+
+/* CARATULA */
