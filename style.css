@@ -114,6 +114,7 @@ img {
     border: 30px;
     position: static;
     z-index:0;
+    margin-right: 3%;
 }
 
 .heading>p {
@@ -138,7 +139,7 @@ td {
 .proarte>.imgproarte {
     width: 200px;
     float: left;
-    margin-right: 5px;
+    margin-right: 3%;
 
 }
 
