@@ -114,7 +114,6 @@ img {
     border: 30px;
     position: static;
     z-index:0;
-    float: right;
 }
 
 .heading>p {
